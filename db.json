@@ -1,10 +1,21 @@
 {
-  "posts": [
-    { "id": 1, "title": "Ram", "author": "Valmiki" },
-    { "id": 2, "title": "Sita", "author": "Valmiki" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+	"posts": [{
+			"id": 1,
+			"title": "Ram",
+			"author": "Valmiki"
+		},
+		{
+			"id": 2,
+			"title": "Sita",
+			"author": "Valmiki"
+		}
+	],
+	"comments": [{
+		"id": 1,
+		"body": "some comment",
+		"postId": 1
+	}],
+	"profile": {
+		"name": "typicode"
+	}
 }
