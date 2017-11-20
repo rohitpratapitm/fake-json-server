@@ -1,21 +1,49 @@
 {
-	"posts": [{
-			"id": 1,
-			"title": "Ram",
-			"author": "Valmiki"
+	"players": [{
+		"nba.p.4614": {
+			"player_id": "nba.p.4614",
+			"display_name": "DeMar DeRozan",
+			"last_name": "DeRozan",
+			"first_name": "DeMar",
+			"team_id": "nba.t.28",
+			"home_url": "/nba/players/4614",
+			"uniform_number": "10"
 		},
-		{
-			"id": 2,
-			"title": "Sita",
-			"author": "Valmiki"
+		"nba.p.3983": {
+			"player_id": "nba.p.3983",
+			"display_name": "Marcin Gortat",
+			"last_name": "Gortat",
+			"first_name": "Marcin",
+			"team_id": "nba.t.27",
+			"home_url": "/nba/players/3983",
+			"uniform_number": "13"
+		},
+		"nba.p.4633": {
+			"player_id": "nba.p.4633",
+			"display_name": "Wayne Ellington",
+			"last_name": "Ellington",
+			"first_name": "Wayne",
+			"team_id": "nba.t.14",
+			"home_url": "/nba/players/4633",
+			"uniform_number": "2"
+		},
+		"nba.p.5471": {
+			"player_id": "nba.p.5471",
+			"display_name": "Myles Turner",
+			"last_name": "Turner",
+			"first_name": "Myles",
+			"team_id": "nba.t.11",
+			"home_url": "/nba/players/5471",
+			"uniform_number": "33"
+		},
+		"nba.p.5201": {
+			"player_id": "nba.p.5201",
+			"display_name": "Allen Crabbe",
+			"last_name": "Crabbe",
+			"first_name": "Allen",
+			"team_id": "nba.t.17",
+			"home_url": "/nba/players/5201",
+			"uniform_number": "33"
 		}
-	],
-	"comments": [{
-		"id": 1,
-		"body": "some comment",
-		"postId": 1
-	}],
-	"profile": {
-		"name": "typicode"
-	}
+	}]
 }
